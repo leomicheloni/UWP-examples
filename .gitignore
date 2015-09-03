@@ -3,3 +3,6 @@
 /AdaptiveUI/AdaptiveUI/bin/x86/Debug
 /AdaptiveUI/AdaptiveUI/obj/x86/Debug
 /AdaptiveUI/AdaptiveUI/obj/ARM/Debug
+/AdaptiveControl/AdaptiveControl/obj
+/AdaptiveControl/AdaptiveControl/bin
+/AdaptiveControl/.vs
