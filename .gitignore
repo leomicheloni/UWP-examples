@@ -10,3 +10,6 @@
 /Extensions/Extensions/bin
 /Extensions/.vs
 *.suo
+/Specific/.vs
+/Specific/Specific/obj
+/Specific/Specific/bin
