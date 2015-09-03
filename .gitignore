@@ -6,3 +6,7 @@
 /AdaptiveControl/AdaptiveControl/obj
 /AdaptiveControl/AdaptiveControl/bin
 /AdaptiveControl/.vs
+/Extensions/Extensions/obj
+/Extensions/Extensions/bin
+/Extensions/.vs
+*.suo
